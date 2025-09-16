@@ -5,26 +5,26 @@
   },
   {
     "url": "https://github.com/frappe/helpdesk",
-    "branch": "version-15"
+    "branch": "main-hotfix"
   },
   {
     "url": "https://github.com/frappe/crm",
-    "branch": "version-15"
+    "branch": "main-hotfix"
   },
   {
     "url": "https://github.com/frappe/hrms",
-    "branch": "version-15"
+    "branch": "version-15-hotfix"
   },
   {
     "url": "https://github.com/frappe/studio",
-    "branch": "version-15"
+    "branch": "fix-build"
   },
   {
     "url": "https://github.com/frappe/drive",
-    "branch": "version-15"
+    "branch": "main"
   },
   {
     "url": "https://github.com/frappe/gameplan",
-    "branch": "version-15"
+    "branch": "main"
   }
 ]
