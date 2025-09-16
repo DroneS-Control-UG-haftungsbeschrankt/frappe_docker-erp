@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://github.com/frappe/erpnext",
+    "branch": "version-15"
+  },
+  {
+    "url": "https://github.com/frappe/helpdesk",
+    "branch": "version-15"
+  },
+  {
+    "url": "https://github.com/frappe/crm",
+    "branch": "version-15"
+  },
+  {
+    "url": "https://github.com/frappe/hrms",
+    "branch": "version-15"
+  },
+  {
+    "url": "https://github.com/frappe/studio",
+    "branch": "version-15"
+  },
+  {
+    "url": "https://github.com/frappe/drive",
+    "branch": "version-15"
+  },
+  {
+    "url": "https://github.com/frappe/gameplan",
+    "branch": "version-15"
+  }
+]
